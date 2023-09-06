@@ -1,0 +1,13 @@
+person
+car
+building
+window
+tree
+sign
+door
+bookshelf
+chair
+table
+keyboard
+head
+
