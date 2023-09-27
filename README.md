@@ -37,7 +37,7 @@ To achieve real-time execution, several experiments were conducted using PyTorch
 - MobileNet-V3-small
 - MobileNet-V3-large
 
-Each model was trained for 10 and 5 epochs, and the results of these experiments are summarized in [experiment_results.jpg](experiment_results.png). Notably, MobileNet-V3-small emerged as the preferred choice due to its competitive accuracy and small model size.
+Each model was trained for 10 and 5 epochs, and the results of these experiments are summarized in ![experiment_results.jpg](experiment_results.png). Notably, MobileNet-V3-small emerged as the preferred choice due to its competitive accuracy and small model size.
 
 The model's performance is showcased in the [predict.ipynb](predict.ipynb) notebook, where it's tested on local files to ensure correct functionality.
 
