@@ -53,4 +53,4 @@ For future work, there are two main objectives:
 
 Your contributions and suggestions are welcome to help us achieve these goals!
 
-Thank you for your interest in LabelMe Classification AI.
+Thank you for your interest in LabelMe-Classification-AI.
